@@ -51,6 +51,9 @@
 `form`
   - `input` : text, password, submit
 
-추가적인 학습 : [MDN HTML Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [프론트엔드 블로그](https://poiemaweb.com/)
+추가적인 학습 : [MDN HTML Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [poiemaweb](https://poiemaweb.com/), [velopert](https://velopert.com)
 
 `fake_naver.html` : `form`태그와 `query`를 활용해 fake 네이버 검색창 만들기
+
+# 4교시
+`css`
