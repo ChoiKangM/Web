@@ -5,25 +5,51 @@
     <style>
       /* CSS comment */
 
+      /* 1.tag name */
       header {
         color: red;
+        font-size: 20px;
+      }
+      /* 2. select all */
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      /* 3. id selector */
+      #foot {
+        background-color: black;
+        color: white;
+      }
+      /* 4. class selector */
+      .art {
+        font-size: 30px;
+        color: green;
+      }
+      /* 5. parent child */
+      ol > li {
+        color: yellow;
+      }
+      p > b {
+        color: gray;
       }
     </style>
+    <link rel="stylesheet" href="index.css">
   </head>
   <body>
     <!-- semantic tag -->
-    <nav>nav</nav>
+    <nav style="color: blue;">nav</nav>
 
     <header id="header">header</header>
     
     <aside>aside</aside>
     <section>
       section
-      <article>article</article>
-      <article>article</article>
-      <article>article</article>
+      <article class="art">article</article>
+      <article class="art">article</article>
+      <article class="art">article</article>
     </section>
-    <footer>footer</footer>
+    <footer id="foot">footer</footer>
 
     <!-- non-semantic tag -->
     <div>

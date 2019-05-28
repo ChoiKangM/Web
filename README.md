@@ -56,4 +56,47 @@
 `fake_naver.html` : `form`태그와 `query`를 활용해 fake 네이버 검색창 만들기
 
 # 4교시
-`css`
+`css` 도입  
+
+`css` 선언
+  - external 
+  - internal 
+  - inline    
+
+`css` 선택자
+  - `tag`
+  - `*`
+  - `id`
+  - `class`
+  - `parent > child`
+
+## 5교시
+`css` 우선순위
+  1. `!important`
+  2. `css inline` 선언
+  3. `id`
+  4. `class`
+  5. `tag`
+  6. `parent`에 의해 상속
+  
+`font`
+  - `font-size`
+  - `font-style`
+  - `font-weight`
+  - `font-family`
+
+`google font`
+  
+
+## 6교시
+`Bootstrap`
+  - `CDN`
+
+실제로 써보자
+  - `m-3`, `p-4`, `mx-3`, `py-4`
+  - `text-center`, `text-primary`
+  - `container`
+  - `grid` = `row`, `column` + `emmet`
+  - `border`
+  - `btn`, `btn-primary`
+  - `form`
