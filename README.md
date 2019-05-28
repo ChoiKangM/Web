@@ -100,3 +100,11 @@
   - `border`
   - `btn`, `btn-primary`
   - `form`
+
+## 7교시
+[`Free Bootstrap Theme`](https://startbootstrap.com/)
+
+수강자가 만드는 [`Github Pages`](https://pages.github.com/)   
+
+## 8교시
+[`Github Pages`](https://pages.github.com/) 실습 
