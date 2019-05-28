@@ -41,3 +41,16 @@
 `list`
   - `ol` + `li`
   - `ul` + `li`
+
+# 3교시
+`a`: 상대경로, 절대경로, `id`, `mailto`, `_blank`
+`media`
+  - `img`
+  - `iframe`
+
+`form`
+  - `input` : text, password, submit
+
+추가적인 학습 : [MDN HTML Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [프론트엔드 블로그](https://poiemaweb.com/)
+
+`fake_naver.html` : `form`태그와 `query`를 활용해 fake 네이버 검색창 만들기
